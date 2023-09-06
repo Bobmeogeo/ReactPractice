@@ -2,7 +2,7 @@
 
 import React from "react";
 import './App.css' //css 적용
-import LifecycleEx from "./R007_LifecycleEx";
+import LifecycleEx from "./R008_LifecycleEx";
 
 function App(){
   return(
