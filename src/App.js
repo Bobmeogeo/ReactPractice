@@ -2,7 +2,7 @@
 
 import React from "react";
 import './App.css'; //css 적용
-import Variable from './R010_Variable';
+import Props from './R017_Props';
 
 function App(){
   return(
@@ -10,7 +10,7 @@ function App(){
       <h1>Start React 200!</h1>
       <p>001. HTML 적용하기</p>
       <p>002. css 적용하기</p>
-      <Variable />
+      <Props props_val = "THIS IS PROPS" />
     </div>
   );
 }
